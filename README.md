@@ -1,6 +1,6 @@
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF4OGNnenBwamZnOHlqM3A1bmljanpoZDFvMTdiNGI3cmpmYm5heSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h7p31z5pWVwV1aenEh/giphy.gif" width="30" height="30"> Oi, eu sou a Larissa :blush:
-<h3>Eu sou a Larissa, sou bacharel em Engenharia de Pesca e atualmente estou cursando pós-graduação em Segurança do Trabalho <s>além de várias outras coisas</s>, entretanto minha verdadeira paixão sempre foi voltada para o design e programação. 
-<p>Desde os 11 anos eu aperfeiçoo minhas habilidades com o Photoshop e comecei nesse mundo de códigos através do Blogspot, Flogvip, Tumblr e do Wordpress.</p> </h3>
+Eu sou a Larissa, sou bacharel em Engenharia de Pesca e atualmente estou cursando pós-graduação em Segurança do Trabalho <s>além de várias outras coisas</s>, entretanto minha verdadeira paixão sempre foi voltada para o design e programação. 
+<p>Desde os 11 anos eu aperfeiçoo minhas habilidades com o Photoshop e comecei nesse mundo de códigos através do Blogspot, Flogvip, Tumblr e do Wordpress.</p>
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF4OGNnenBwamZnOHlqM3A1bmljanpoZDFvMTdiNGI3cmpmYm5heSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h7p31z5pWVwV1aenEh/giphy.gif" width="30" height="30"> Redes
 <div align="center" dir="auto">
