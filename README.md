@@ -1,5 +1,5 @@
 # Oi, eu sou a Larissa 
-Eu sou a Larissa, sou bacharel em Engenharia de Pesca e cursando pós-graduação em Segurança do Trabalho, entretanto minha verdadeira paixão sempre foi voltada para o design e programação. 
+Eu sou a Larissa, sou bacharel em Engenharia de Pesca e atualmente estou cursando pós-graduação em Segurança do Trabalho <s>além de várias outras coisas</s>, entretanto minha verdadeira paixão sempre foi voltada para o design e programação. 
 <p>Desde os 11 anos eu aperfeiçoo minhas habilidades com o Photoshop e comecei nesse mundo de códigos através do Blogspot, Flogvip, Tumblr e do Wordpress.</p> 
 
 ## Redes
