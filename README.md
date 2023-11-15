@@ -1,6 +1,8 @@
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF4OGNnenBwamZnOHlqM3A1bmljanpoZDFvMTdiNGI3cmpmYm5heSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h7p31z5pWVwV1aenEh/giphy.gif" width="30" height="30"> Oi, eu sou a Larissa :blush:
-Eu sou a Larissa, sou bacharel em Engenharia de Pesca e atualmente estou cursando pós-graduação em Segurança do Trabalho <s>além de várias outras coisas</s>, entretanto minha verdadeira paixão sempre foi voltada para o design e programação. 
-<p>Desde os 11 anos eu aperfeiçoo minhas habilidades com o Photoshop e comecei nesse mundo de códigos através do Blogspot, Flogvip, Tumblr e do Wordpress.</p>
+<li> Sou bacharel em Engenharia de Pesca </li>
+<li>Atualmente estou cursando pós-graduação em Segurança do Trabalho <s>além de várias outras coisas</s>. Entretanto minha verdadeira paixão sempre foi voltada para o design e programação.</s></li>
+
+<p><li>Desde os 11 anos eu aperfeiçoo minhas habilidades com o Photoshop e comecei nesse mundo de códigos através do Blogspot, Flogvip, Tumblr e do Wordpress.</p>
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF4OGNnenBwamZnOHlqM3A1bmljanpoZDFvMTdiNGI3cmpmYm5heSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h7p31z5pWVwV1aenEh/giphy.gif" width="30" height="30"> Redes
 <div align="center" dir="auto">
@@ -23,12 +25,6 @@ Eu sou a Larissa, sou bacharel em Engenharia de Pesca e atualmente estou cursand
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>  
 </div>
 
-<div align="center" dir="auto">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-</div>
-
 
 ## <img src="https://media.tenor.com/R8T1SQ4S6J4AAAAM/animation.gif" width="30" height="30">  Desenvolvendo habilidades em
 
@@ -45,6 +41,7 @@ Eu sou a Larissa, sou bacharel em Engenharia de Pesca e atualmente estou cursand
 <div align="center" dir="auto">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larihyun&theme=transparent&bg_color=f9ecd9&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=f9ecd9)
 </div>
 
 ## Minhas Contribuições
