@@ -4,8 +4,8 @@
 <p align="left">
 <img align="right" alt="minha imagem" width="200" src="https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif">
 
-<li> Sou bacharel em Engenharia de Pesca </li>
-<li>Atualmente estou cursando pós-graduação em Segurança do Trabalho <s>além de várias outras coisas</s>. Entretanto minha verdadeira paixão sempre foi voltada para o design e programação.</li>
+<li> Bacharel em Engenharia de Pesca </li>
+<li>Atualmente cursando pós-graduação em Segurança do Trabalho <s>além de várias outras coisas</s>. Entretanto minha verdadeira paixão sempre foi voltada para o design e programação.</li>
 <p>Desde os 11 anos eu aperfeiçoo minhas habilidades com o Photoshop e comecei nesse mundo de códigos através do Blogspot, Flogvip, Tumblr e do Wordpress.</p>
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF4OGNnenBwamZnOHlqM3A1bmljanpoZDFvMTdiNGI3cmpmYm5heSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h7p31z5pWVwV1aenEh/giphy.gif" width="30" height="30"> Redes
