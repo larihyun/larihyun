@@ -30,7 +30,7 @@
 </div>
 
 
-## <img src="https://media.tenor.com/R8T1SQ4S6J4AAAAM/animation.gif" width="30" height="30">  Desenvolvendo habilidades em
+## <img src="https://media.tenor.com/R8T1SQ4S6J4AAAAM/animation.gif" width="30" height="30">  Desenvolvendo habilidades
 
 <div align="center" dir="auto">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
