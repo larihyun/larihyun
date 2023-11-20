@@ -1,10 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:e14a29,100:f9ecda&fontColor=f9ecda&height=90&section=header" />
+<h1><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF4OGNnenBwamZnOHlqM3A1bmljanpoZDFvMTdiNGI3cmpmYm5heSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h7p31z5pWVwV1aenEh/giphy.gif" width="30" height="30"> Oi, eu sou a Larissa :whale:</h1>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF4OGNnenBwamZnOHlqM3A1bmljanpoZDFvMTdiNGI3cmpmYm5heSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h7p31z5pWVwV1aenEh/giphy.gif" width="30" height="30"> Oi, eu sou a Larissa :blush:
+<p align="left">
+<img align="right" alt="minha imagem" width="200" src="https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif">
+
 <li> Sou bacharel em Engenharia de Pesca </li>
 <li>Atualmente estou cursando pós-graduação em Segurança do Trabalho <s>além de várias outras coisas</s>. Entretanto minha verdadeira paixão sempre foi voltada para o design e programação.</li>
-
-<p><li>Desde os 11 anos eu aperfeiçoo minhas habilidades com o Photoshop e comecei nesse mundo de códigos através do Blogspot, Flogvip, Tumblr e do Wordpress.</p>
+<p>Desde os 11 anos eu aperfeiçoo minhas habilidades com o Photoshop e comecei nesse mundo de códigos através do Blogspot, Flogvip, Tumblr e do Wordpress.</p>
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF4OGNnenBwamZnOHlqM3A1bmljanpoZDFvMTdiNGI3cmpmYm5heSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h7p31z5pWVwV1aenEh/giphy.gif" width="30" height="30"> Redes
 <div align="center" dir="auto">
@@ -27,6 +29,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>  
 </div>
 
+
 ## <img src="https://media.tenor.com/R8T1SQ4S6J4AAAAM/animation.gif" width="30" height="30">  Desenvolvendo habilidades em
 
 <div align="center" dir="auto">
@@ -37,21 +40,23 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </div>
 
+
 ## GitHub Stats
 <div align="center" dir="auto">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=larihyun&bg_color=f9ecd9&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=larihyun&bg_color=f9ecd9&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larihyun&layout=compact&langs_count=8&card_width=320&bg_color=f9ecd9&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larihyun&layout=compact&langs_count=8&card_width=320&bg_color=f9ecd9&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000" />
 </a>
 </div>
 
 ## Minhas Contribuições
+
 <div align="center" dir="auto">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=larihyun&theme=bear&background=f9ecd9&border=30A3DC&dates=000)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=170 align="center" src="https://streak-stats.demolab.com/?user=larihyun&theme=bear&background=f9ecd9&border=30A3DC&dates=000" />
+</a>
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:e14a29,100:f9ecda&fontColor=ef95ae&height=90&section=footer&animation=fadeIn" />
